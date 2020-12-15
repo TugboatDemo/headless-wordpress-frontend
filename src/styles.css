@@ -18,8 +18,8 @@ body {
     -moz-osx-font-smoothing: grayscale;
     color: #052835;
     background: #044258; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #BFE5F2, #F7FCFD, #BFE5F2);
-    background: linear-gradient(to right, #BFE5F2, #F7FCFD, #BFE5F2);
+    background: -webkit-linear-gradient(to right, #BFE5F2, #F0F9FC, #F0F9FC, #BFE5F2);
+    background: linear-gradient(to right, #BFE5F2, #F0F9FC, #F0F9FC, #BFE5F2);
 }
 
 .app {
