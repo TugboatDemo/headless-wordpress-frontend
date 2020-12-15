@@ -10,6 +10,7 @@ export default function App() {
       <div className="app">
         <h1 className="title">WPGraphQL Posts Finder</h1>
         <PostsFinder />
+        <footer><h3>This app was built by following <a href="https://www.youtube.com/watch?v=KZnFoPgctho">this crash course</a> by <a href="https://twitter.com/kellenmace">Kellen Mace</a>.</h3></footer>
       </div>
     </ApolloProvider>
   );
