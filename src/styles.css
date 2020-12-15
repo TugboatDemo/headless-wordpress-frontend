@@ -16,10 +16,10 @@ body {
     sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #252527;
-    background: #fd746c; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #ff9068, #fd746c);
-    background: linear-gradient(to right, #ff9068, #fd746c);
+    color: #052835;
+    background: #044258; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #BFE5F2, #F7FCFD, #BFE5F2);
+    background: linear-gradient(to right, #BFE5F2, #F7FCFD, #BFE5F2);
 }
 
 .app {
@@ -53,7 +53,7 @@ body {
 
 .post-card {
     width: 100%;
-    background: rgba(0, 0, 0, 0.08);
+    background: rgba(7,104,140,0.08);
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
